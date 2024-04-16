@@ -7,7 +7,7 @@
 
 
 ![Ravy Carvalho Developer GitHub stats](https://github-readme-stats.vercel.app/api?username=ravycarvalhodeveloper&show_icons=true&theme=dark)<br/>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ravycarvalhodeveloper&hide_progress=true)
+
 ## Tecnologias que eu uso no meu dia à dia.
 
 
@@ -32,7 +32,10 @@
 </div>
 </div><br/>
 
-O sucesso é a soma de pequenos esforços repetidos dia após dia..💻
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ravycarvalhodeveloper&hide_progress=true)<br/>
+
+O sucesso é a soma de pequenos esforços repetidos dia após dia..💻 
+
 
 
 
