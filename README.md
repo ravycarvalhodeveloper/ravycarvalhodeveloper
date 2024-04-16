@@ -32,7 +32,7 @@
 </div>
 </div><br/>
 
-O sucesso é a soma de pequenos esforços.💻
+O sucesso é a soma de pequenos esforços repetidos dia após dia..💻
 
 
 
