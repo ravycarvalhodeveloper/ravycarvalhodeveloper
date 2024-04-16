@@ -6,8 +6,8 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ravypdcarvalhomaind007@gmail.com)
 
 
-![Ravy Carvalho Developer GitHub stats](https://github-readme-stats.vercel.app/api?username=ravycarvalhodeveloper&show_icons=true&theme=dark)
-
+![Ravy Carvalho Developer GitHub stats](https://github-readme-stats.vercel.app/api?username=ravycarvalhodeveloper&show_icons=true&theme=dark)<br/>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ravycarvalhodeveloper&hide_progress=true)
 ## Tecnologias que eu uso no meu dia à dia.
 
 
@@ -33,6 +33,7 @@
 </div><br/>
 
 O sucesso é a soma de pequenos esforços repetidos dia após dia..💻
+
 
 
 
