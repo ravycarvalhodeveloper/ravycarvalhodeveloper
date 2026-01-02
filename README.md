@@ -29,10 +29,7 @@ Software Engineer passionate about modern web development and performance optimi
 </div>
 </div><br/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ravycarvalhodeveloper&hide_progress=true)<br/>
-
-O sucesso é a soma de pequenos esforços repetidos dia após dia..💻 
-
+Success is the sum of small efforts repeated day after day. 💻
 
 
 
