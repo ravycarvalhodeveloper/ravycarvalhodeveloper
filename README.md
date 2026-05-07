@@ -13,6 +13,7 @@ Software Engineer passionate about modern web development and performance optimi
   <img align="center" alt="PostgreSQL" style="margin: 4px;" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img align="center" alt="SQL" style="margin: 4px;" src="https://img.shields.io/badge/-SQL-000?style=for-the-badge&logo=MySQL&logoColor=4479A1" />
   <img align="center" alt="Go" style="margin: 4px;" src="https://img.shields.io/badge/Go-00ADD8?logo=Go&logoColor=white&style=for-the-badge" />
+  <img align="center" alt="AWS" style="margin: 4px;" src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900" />
   <img align="center" alt="NestJS" style="margin: 4px;" src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
   <img align="center" alt="Sass / SCSS" style="margin: 4px;" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
   <img align="center" alt="Tailwind CSS" style="margin: 4px;" src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
