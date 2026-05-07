@@ -10,7 +10,7 @@ Passionate about building scalable APIs, clean code and systems design.
 
 ## 💻 Technologies I Work With
 
-<div>
+<div style="display: flex; flex-wrap: wrap; gap: 8px; padding: 16px 0;">
   <img align="center" alt="Go" style="margin: 4px;" src="https://img.shields.io/badge/Go-00ADD8?logo=Go&logoColor=white&style=for-the-badge" />
   <img align="center" alt="PostgreSQL" style="margin: 4px;" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img align="center" alt="SQL" style="margin: 4px;" src="https://img.shields.io/badge/-SQL-000?style=for-the-badge&logo=MySQL&logoColor=4479A1" />
