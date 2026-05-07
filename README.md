@@ -10,6 +10,7 @@ Software Engineer passionate about modern web development and performance optimi
 ## 💻 Technologies I Work With
 
 <div>
+  <img align="center" alt="PostgreSQL" style="margin: 4px;" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img align="center" alt="SQL" style="margin: 4px;" src="https://img.shields.io/badge/-SQL-000?style=for-the-badge&logo=MySQL&logoColor=4479A1" />
   <img align="center" alt="Go" style="margin: 4px;" src="https://img.shields.io/badge/Go-00ADD8?logo=Go&logoColor=white&style=for-the-badge" />
   <img align="center" alt="NestJS" style="margin: 4px;" src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
