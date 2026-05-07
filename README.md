@@ -11,12 +11,13 @@ Passionate about building scalable APIs, clean code and systems design.
 ## 💻 Technologies I Work With
 
 <div>
+  <img align="center" alt="Go" style="margin: 4px;" src="https://img.shields.io/badge/Go-00ADD8?logo=Go&logoColor=white&style=for-the-badge" />
   <img align="center" alt="PostgreSQL" style="margin: 4px;" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img align="center" alt="SQL" style="margin: 4px;" src="https://img.shields.io/badge/-SQL-000?style=for-the-badge&logo=MySQL&logoColor=4479A1" />
-  <img align="center" alt="Go" style="margin: 4px;" src="https://img.shields.io/badge/Go-00ADD8?logo=Go&logoColor=white&style=for-the-badge" />
+  <img align="center" alt="Docker" style="margin: 4px;" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img align="center" alt="Git" style="margin: 4px;" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img align="center" alt="Linux" style="margin: 4px;" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img align="center" alt="AWS" style="margin: 4px;" src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900" />
-  <img align="center" alt="NestJS" style="margin: 4px;" src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
-  <img align="center" alt="Sass / SCSS" style="margin: 4px;" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
   <img align="center" alt="Tailwind CSS" style="margin: 4px;" src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
   <img align="center" alt="JavaScript" style="margin: 4px;" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img align="center" alt="React" style="margin: 4px;" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
