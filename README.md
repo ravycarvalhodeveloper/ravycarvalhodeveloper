@@ -1,6 +1,7 @@
-### Hi! I'm Ravy Carvalho 🤙
+### What's up! I'm Ravy 🤙
 
-Software Engineer passionate about modern web development and performance optimization. Expertise in JavaScript, TypeScript, React, Next.js, Component-Driven Development, and API design. Committed to best practices including CI/CD, testing (unit/integration), accessibility, and responsive design. Strong collaborator in agile teams and continuous learner.
+Backend developer focused on Go, with experience in JavaScript, TypeScript, React and Next.js.
+Passionate about building scalable APIs, clean code and systems design.
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ravycarvalho_/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ravy-carvalho/)
