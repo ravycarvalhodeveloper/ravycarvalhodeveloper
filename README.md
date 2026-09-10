@@ -1,7 +1,6 @@
 ### What's up! I'm Ravy 🤙
 
-Backend developer focused on Go, with experience in JavaScript, TypeScript, React and Next.js.
-Passionate about building scalable APIs, clean code and systems design.
+Full-stack developer focused on TypeScript, React, Next.js and Node.js. Passionate about building scalable APIs, clean code and systems design.
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ravycarvalho_/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ravy-carvalho/)
